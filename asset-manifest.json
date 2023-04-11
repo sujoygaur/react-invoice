@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-invoice/static/css/main.77ba6a37.css",
+    "main.js": "/react-invoice/static/js/main.eb786dc1.js",
+    "index.html": "/react-invoice/index.html",
+    "main.77ba6a37.css.map": "/react-invoice/static/css/main.77ba6a37.css.map",
+    "main.eb786dc1.js.map": "/react-invoice/static/js/main.eb786dc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77ba6a37.css",
+    "static/js/main.eb786dc1.js"
+  ]
+}
